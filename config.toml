@@ -47,26 +47,26 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Get In Touch"
+    title = "Informationen"
+    description = "Detaillierte Infos zu den verfügbaren Monitormate-Produkten finden sie auf der Hersteller-Seite"
+    url = "https://www.monitormate.com.tw/"
+    button = "zu monitormate.com.tw"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Click Me"
+    title = "ProStation kaufen"
+    description = "Hier klicken um einen Monitormate Prostation 3.0 via Amazon zu kaufen. Die Lieferung erfolgt aus Deutschland."
+    url = "https://www.amazon.de/MONITORMATE-ProStation-3-0-Aluminum-Monitorst%C3%A4nder/dp/B01KX9L5TW"
+    button = "bei Amazon kaufen"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Anfrage senden"
+    description = "Sie haben eine Frage zu den Monitormate-Produkten? Sie können uns eine Nachricht schicken"
     url = "#"
-    button = "Why us?"
+    button = "Nachricht schicken"
     icon = "icon-rocket"
     img = "img_10.jpg"
 
